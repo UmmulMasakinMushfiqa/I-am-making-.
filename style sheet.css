@@ -1,0 +1,10 @@
+h1{ 
+    color:magenta;
+}
+p{font-size: large; 
+font-family: cursive;
+font-weight: bold;
+font-style: oblique; 
+color:white}
+body{background-color: mediumspringgreen;}
+.box-1{ background-color: midnightblue;}
